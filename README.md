@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🦕 StegoRise
 
-<!--
-**OxStego/OxStego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Went extinct once. Back to build something real."
 
-Here are some ideas to get you started:
+## 🔥 Currently
+- Grinding DSA from zero — Day 2/∞
+- Solving LeetCode problems daily in Python
+- Building projects with React + Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 DSA Progress
+- ✅ Arrays — In Progress
+- ⬜ Strings
+- ⬜ Two Pointers
+- ⬜ Sliding Window
+- ⬜ Stack / Queue
+- ⬜ Linked List
+- ⬜ Trees
+- ⬜ Dynamic Programming
+
+## 🧠 Today I Solved
+- LeetCode #1 — Two Sum ✅
+- LeetCode #9 — Palindrome Number ✅
+
+## ⚙️ Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+
+## 📊 GitHub Stats
+![StegoRise's GitHub stats](https://github-readme-stats.vercel.app/api?username=OxStego&show_icons=true&theme=dark)
